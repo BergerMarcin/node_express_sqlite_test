@@ -1,19 +1,19 @@
-#Intro
+# Intro
 This is just test project to learn Express.js :)
 
 The best part of that project is wrapped sqlite3 functions with Promises (giving modern way of programming with DB responses)
 
-##Express.js
+## Express.js
 No Promises!!!
 Giving only routing with server-side rendering + middleware
 Modern frameworks routing has those parts as a standard + built-in professional html templates engine for rendering + much more
 
-##PUG
+## PUG
 Disaster html templates engine. Never, ever again!!!
 
 Anyway it was fun to compare it with modern frameworks 
 
-##SQLITE
+## SQLITE
 Node package: `sqlite3`
 Disaster package, no promises
 
