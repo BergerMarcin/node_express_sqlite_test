@@ -1,0 +1,691 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 530,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "eC3dU6dR2E4C",
+      "etag": "U4J1f4wMMD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eC3dU6dR2E4C",
+      "volumeInfo": {
+        "title": "The sentiment of flowers; or, Language of flora, by R. Tyas",
+        "authors": [
+          "Robert Tyas"
+        ],
+        "publishedDate": "1842",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:600051516"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 365,
+        "printType": "BOOK",
+        "categories": [
+          "Flower language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eC3dU6dR2E4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eC3dU6dR2E4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=eC3dU6dR2E4C&pg=PA17&dq=flowers&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eC3dU6dR2E4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eC3dU6dR2E4C"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=eC3dU6dR2E4C&rdid=book-eC3dU6dR2E4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/The_sentiment_of_flowers_or_Language_of.epub?id=eC3dU6dR2E4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.pl/books/download/The_sentiment_of_flowers_or_Language_of.pdf?id=eC3dU6dR2E4C&hl=&output=pdf&sig=ACfU3U23EFDLoP2q2A-LdN-OeH1MDFWRDw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eC3dU6dR2E4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Oh no ! the little child loves the \u003cb\u003eflower\u003c/b\u003e - garden , and watches with intense interest \u003cbr\u003e\nthe early opening buds , such fair types of itself . The young , the middle - aged , \u003cbr\u003e\nand the hoary head silvered with the snows of three - score years and ten ; all&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PcWttoJeYBwC",
+      "etag": "pBnKzyFhBhM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PcWttoJeYBwC",
+      "volumeInfo": {
+        "title": "The Flower-Garden: Containing Directions for the Cultivation of All Garden Flowers ... A New Edition. [By Charles Macintosh. With Engraved Plates.]",
+        "publishedDate": "1839",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0024172753"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 515,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PcWttoJeYBwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PcWttoJeYBwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=PcWttoJeYBwC&pg=PA28&dq=flowers&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PcWttoJeYBwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PcWttoJeYBwC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=PcWttoJeYBwC&rdid=book-PcWttoJeYBwC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/The_Flower_Garden_Containing_Directions.epub?id=PcWttoJeYBwC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PcWttoJeYBwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "( Alchemilla glubra . ) \u003cb\u003eFlowers\u003c/b\u003e in July and August , in common mould . Five - \u003cbr\u003e\nleaved Ladies &#39; Mantle . ( Alchemilla pentuphylla . ) \u003cb\u003eFlowers\u003c/b\u003e in July , in common \u003cbr\u003e\ngarden mould . Mountain Madwort . ( Alyssum montanum . ) \u003cb\u003eFlowers\u003c/b\u003e in July and \u003cbr\u003e\nAugust&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-gMVMiOpoS8C",
+      "etag": "z6XQ2Xam+cs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-gMVMiOpoS8C",
+      "volumeInfo": {
+        "title": "Cut Flowers",
+        "subtitle": "Report to the President Under the Provisions of Section 336 of Title III of the Tariff Act of 1930",
+        "authors": [
+          "United States Tariff Commission"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:30000011101163"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "categories": [
+          "Cut flowers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-gMVMiOpoS8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-gMVMiOpoS8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=-gMVMiOpoS8C&pg=PA6&dq=flowers&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-gMVMiOpoS8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-gMVMiOpoS8C"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-gMVMiOpoS8C&rdid=book--gMVMiOpoS8C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/Cut_Flowers.epub?id=-gMVMiOpoS8C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-gMVMiOpoS8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Table 5 shows that orchids were first in value among the different kinds of \u003cb\u003eflowers\u003c/b\u003e \u003cbr\u003e\nimported from Canada in 1931–32 , and second in value in 1932–33 . This , \u003cbr\u003e\nhowever , was an abnormal situation and was due to the fact that the imports of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nF0EAAAAYAAJ",
+      "etag": "RhL2R6CLLuE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nF0EAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Flowers Personified",
+        "subtitle": "Being a Translation of Grandville's \"Les Fleurs Animées.\"",
+        "authors": [
+          "J. J. Grandville",
+          "Nehemiah Cleaveland"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HXKL2J"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 385,
+        "printType": "BOOK",
+        "categories": [
+          "Botany"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nF0EAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nF0EAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=nF0EAAAAYAAJ&pg=PA168&dq=flowers&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nF0EAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nF0EAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=nF0EAAAAYAAJ&rdid=book-nF0EAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/The_Flowers_Personified.epub?id=nF0EAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.pl/books/download/The_Flowers_Personified.pdf?id=nF0EAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0RFfFGoP6FpJUfHPmoxJoJ6Qzt7Q&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nF0EAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE \u003cb\u003eFLOWER\u003c/b\u003e OF REMEMBRANCE . A \u003cb\u003eFLOWER\u003c/b\u003e had fallen from her tresses , \u003cbr\u003e\nand he was about to pick it up , but she stopped him . “ Leave it , ” said she ; “ \u003cbr\u003e\nleave the \u003cb\u003eflower\u003c/b\u003e which the wind has taken , and accept this . ” Then taking me \u003cbr\u003e\nfrom her&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t10TAAAAYAAJ",
+      "etag": "x9kbK7Qf6T4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t10TAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Post-harvest Handling of Flowers, 1970-1987",
+        "subtitle": "181 Citations",
+        "authors": [
+          "Jayne T. MacLean"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X001442132"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 19,
+        "printType": "BOOK",
+        "categories": [
+          "Flowers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t10TAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t10TAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=t10TAAAAYAAJ&pg=RA1-PA1&dq=flowers&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=t10TAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=t10TAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=t10TAAAAYAAJ&rdid=book-t10TAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/Post_harvest_Handling_of_Flowers_1970_19.epub?id=t10TAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t10TAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "0001 The action of kinetin in improving the water balance and delaying \u003cbr\u003e\nsenescence processes of cut rose \u003cb\u003eflowers\u003c/b\u003e . Mayak , S - Halevy , AH . Physiol \u003cbr\u003e\nPlant . 1974 . Vol . 32 ( 4 ) : pp . 330 - 336 . Ref . ( NAL Call No . : 450 P564 ) . \u003cbr\u003e\nHamel , Esther&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1mlBniJ4p2sC",
+      "etag": "AxKFhU7qJA4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1mlBniJ4p2sC",
+      "volumeInfo": {
+        "title": "The Language of Flowers",
+        "subtitle": "Or, Floral Emblems of Thoughts, Feelings, and Sentiments ...",
+        "authors": [
+          "Robert Tyas"
+        ],
+        "publishedDate": "1875",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0022206784"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Flower language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1mlBniJ4p2sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1mlBniJ4p2sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=1mlBniJ4p2sC&pg=PA94&dq=flowers&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1mlBniJ4p2sC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1mlBniJ4p2sC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1mlBniJ4p2sC&rdid=book-1mlBniJ4p2sC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/The_Language_of_Flowers.epub?id=1mlBniJ4p2sC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1mlBniJ4p2sC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "GARDEN WALL - \u003cb\u003eFLOWER\u003c/b\u003e . Greece , the Romans took up the taste for \u003cb\u003eflowers\u003c/b\u003e , \u003cbr\u003e\nand their love of floral wreaths was so great that the use of certain \u003cb\u003eflowers\u003c/b\u003e was \u003cbr\u003e\nprescribed for special purposes . These rulers of the then known world cultivated\u003cbr\u003e\n&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4UcQAQAAMAAJ",
+      "etag": "9FUlJamUuzQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4UcQAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Native Flowers and Ferns of the United States in Their Botanical, Horticultural and Popular Aspects",
+        "authors": [
+          "Thomas Meehan"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CHI:14534835"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Ferns"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4UcQAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4UcQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=4UcQAQAAMAAJ&pg=PA19&dq=flowers&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4UcQAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4UcQAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=4UcQAQAAMAAJ&rdid=book-4UcQAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/The_Native_Flowers_and_Ferns_of_the_Unit.epub?id=4UcQAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.pl/books/download/The_Native_Flowers_and_Ferns_of_the_Unit.pdf?id=4UcQAQAAMAAJ&hl=&output=pdf&sig=ACfU3U3DNC9ryZQrpUFqWpfLBbeE9xxFBg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4UcQAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The large , showy , but scentless \u003cb\u003eflowers\u003c/b\u003e of this species appear with the first \u003cbr\u003e\napproach of spring , and often in the fall if that season be mild . Some Violets , \u003cbr\u003e\nand those of this species more especially , have the power of perfecting seeds \u003cbr\u003e\nwithout&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ECpbAAAAcAAJ",
+      "etag": "YLpl+b0/Dd0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ECpbAAAAcAAJ",
+      "volumeInfo": {
+        "title": "The Bouquet of Spiritual Flowers",
+        "subtitle": "Received Chiefly Through the Mediumship of Mrs. J.S. Adams",
+        "authors": [
+          "Asaph Bemis Child"
+        ],
+        "publishedDate": "1856",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0018283248"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Channeling (Spiritualism)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ECpbAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ECpbAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=ECpbAAAAcAAJ&pg=PA178&dq=flowers&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ECpbAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ECpbAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ECpbAAAAcAAJ&rdid=book-ECpbAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/The_Bouquet_of_Spiritual_Flowers.epub?id=ECpbAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ECpbAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "and twine for thee brighter , purer \u003cb\u003eflowers\u003c/b\u003e than thy mind has yet conceived of . But \u003cbr\u003e\nas you wander in the garden with earth&#39;s children , touch not the \u003cb\u003eflower\u003c/b\u003e of envy . \u003cbr\u003e\nMany , whose crowns would be pure , could they tear from them that \u003cb\u003eflower\u003c/b\u003e , are&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iBslAQAAMAAJ",
+      "etag": "oCLZHDMJ0gg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iBslAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Native Flowers of New Zealand",
+        "authors": [
+          "G. B. Hetley"
+        ],
+        "publishedDate": "1888",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015061880350"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": [
+          "Botany"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iBslAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iBslAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=iBslAQAAMAAJ&pg=PP237&dq=flowers&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iBslAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iBslAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=iBslAQAAMAAJ&rdid=book-iBslAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/The_Native_Flowers_of_New_Zealand.epub?id=iBslAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iBslAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "23 2 PLATE 22 . Fig . 1 . PLATE 13 . Unisexual \u003cb\u003eflower\u003c/b\u003e complete . Bisexual \u003cb\u003eflower\u003c/b\u003e \u003cbr\u003e\ncomplete . - Muller&#39;s Chatham Islands . PLATE 19 ( 1 ) . Calyx and ovary . \u003cbr\u003e\nTransverse section of ovary . Fig . 1 . Fig . 1 . Whole \u003cb\u003eflower\u003c/b\u003e . Section of \u003cb\u003eflower\u003c/b\u003e . 2 . \u003cbr\u003e\n2 . 2 ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VJk5gB2vb_AC",
+      "etag": "7r3a+Gyimps",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VJk5gB2vb_AC",
+      "volumeInfo": {
+        "title": "Wayside Flowers Waltz",
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015097821139"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 5,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VJk5gB2vb_AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VJk5gB2vb_AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=VJk5gB2vb_AC&pg=PP1&dq=flowers&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VJk5gB2vb_AC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VJk5gB2vb_AC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=VJk5gB2vb_AC&rdid=book-VJk5gB2vb_AC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VJk5gB2vb_AC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "-T - s ) . 2T |III o so o o N | O B Y. -oilIII:H - I |STMRIBERTR -- RCH. WALTZ, – 8: - \u003cbr\u003e\nMA PU also on sy R. * No soooo so, Pan A. //////#/7/74%: t Composed by To Miss \u003cbr\u003e\nLima Roland, WAYSIDE \u003cb\u003eFLOWERS\u003c/b\u003e WALTZ,. Front Cover."
+      }
+    }
+  ]
+}
